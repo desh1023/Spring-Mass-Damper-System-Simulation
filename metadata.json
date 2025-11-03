@@ -1,0 +1,5 @@
+{
+  "name": "Spring-Mass-Damper Simulator",
+  "description": "An interactive web application to simulate and visualize the response of a spring-mass-damper system. Users can adjust mass, spring constant, and damping coefficient to observe how the system behaves under different conditions.",
+  "requestFramePermissions": []
+}
